@@ -1,4 +1,4 @@
-###  Olá visitante!👋 Eu sou danielnerytondo, conhecido tambêm como <b>mad_daniel</b>, sou streamer, gamer e programador. 
+###  Olá visitante!👋 Eu sou danielnerytondo, conhecido também como <b>mad_daniel</b>, sou streamer, gamer e programador. 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnerytondo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnerytondo&hide_progress=true&theme=radical)
