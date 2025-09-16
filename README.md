@@ -22,6 +22,7 @@
 ### 🤖 Linguagens e Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" >
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Dan-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -63,6 +64,7 @@
 <!--
 **danielnerytondo/danielnerytondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 links uteis:
+https://devicon.dev/ 
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 
