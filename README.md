@@ -2,6 +2,20 @@
 
 
 </p>
+<div> 
+  <a href="https://www.youtube.com/@madgamingclub" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mad.daniel.gamer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/mad_daniel1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/invite/0mvzCh4lnk1TWNCD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/mad_daniel1/" target="_blank"><img src="https://img.shields.io/badge/Steam-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/maddanielx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.tiktok.com/@mad_danielx" target="_blank"><img src="https://img.shields.io/badge/tiktok-171d25?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>  
+  <a href="mailto:danielnerytondo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linktr.ee/mad_daniel"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>  
+  <a href="http://bit.ly/2IOpxfQ"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-felipe-nery-tondo-88b4206b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 ### 📊 Estatísticas
@@ -43,20 +57,7 @@
   
   ##
  
-<div> 
-  <a href="https://www.youtube.com/@madgamingclub" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mad.daniel.gamer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mad_daniel1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/invite/0mvzCh4lnk1TWNCD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://steamcommunity.com/id/mad_daniel1/" target="_blank"><img src="https://img.shields.io/badge/Steam-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/maddanielx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.tiktok.com/@mad_danielx" target="_blank"><img src="https://img.shields.io/badge/tiktok-171d25?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>  
-  <a href="mailto:danielnerytondo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/mad_daniel"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>  
-  <a href="http://bit.ly/2IOpxfQ"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/daniel-felipe-nery-tondo-88b4206b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
 
 
 <!--
