@@ -1,8 +1,7 @@
 ###  Olá visitante!👋 Eu sou danielnerytondo, conhecido também como <b>mad_daniel</b>, sou streamer, gamer, programador e entusiasta.
 
 <br/>
-<br/>
-
+---
 ### 📊 Estatísticas
 
 <p>
@@ -22,7 +21,7 @@
   />
 <br>
 </p>
-
+---
 ### 🤖 Linguagens e Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
