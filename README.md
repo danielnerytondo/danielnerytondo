@@ -23,10 +23,12 @@
   />
 <br>
 </p>
+</p>
 
+---
+
+### 🤖 Linguagens e Tecnologias
   <div style="display: inline_block"><br>
-    ---
-
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
